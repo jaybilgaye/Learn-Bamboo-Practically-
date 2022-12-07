@@ -1,0 +1,21 @@
+Learn Bamboo Practically
+========================
+
+1.Introduction
+	What is Bamboo and Continuous Integration
+	Bamboo Installation
+
+2. Build Agents in bamboo
+3.Administration with Bamboo.
+
+4.Build Plans ,Building and packaging Code
+  - Projects - Jobs - Build Plan.
+
+5.Working with Artifacts.
+
+
+6.Code quality in bamboo
+
+
+7.Continuous Delivery with Bamboo
+ - Deploying Artifacts with Bamboo.
